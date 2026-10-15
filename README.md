@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi I am Jiakang Liu👋
 
-<!--
-**JK-L-66/JK-L-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Sc. Computer Science student at TU Darmstadt, Germany.
 
-Here are some ideas to get you started:
+I'm interested in the intersection of computational neuroscience and probabilistic modeling, particularly how computational approaches can help us understand cognition and behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Currently Exploring
+
+Representation Learning & Neural Networks
+
+I'm developing a small research-oriented Python project to explore transformation invariance and neural representations.
+
+My current focus includes:
+
+Building experiments with Python and PyTorch
+
+Understanding CNN architectures and training
+
+Connecting mathematical concepts with computational experiments
+
+💻 Technical Background
+
+Languages: Python, Java, C
+
+Data Analysis: NumPy, pandas, matplotlib
+
+Machine Learning: PyTorch (currently learning)
+
+Foundations: Data Structures, Algorithms, Discrete Mathematics, Probability & Statistics
+
+📚 Current Learning
+
+Mathematical foundations for machine learning
+
+Probabilistic approaches to cognition
+
+Scientific programming and reproducible experiments
+
+📫 Contact
+
+Feel free to reach out through my GitHub profile.
