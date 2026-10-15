@@ -29,7 +29,14 @@ My current focus includes:
 - Mathematical foundations for machine learning
 - Probabilistic approaches to cognition
 - Scientific programming and reproducible experiments
+## 📂 Selected Projects
 
+### [German–Chinese Video Subtitle Pipeline](https://github.com/JK-L-66/german-video-subtitle-pipeline)
+
+An AI-assisted Java–Python course project for automated
+speech transcription, translation, and bilingual subtitle generation.
+
+Completed and presented as part of a university course.
 ## 📫 Contact
 
 Feel free to reach out through my GitHub profile.
