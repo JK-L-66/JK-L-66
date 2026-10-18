@@ -1,4 +1,4 @@
-## Hi I am Jiakang Liu👋
+## Hi, I'm Jiakang Liu 👋
 
 
 I'm a **B.Sc. Informatics student at TU Darmstadt**, interested in the intersection of **machine learning, probabilistic modeling, and computational neuroscience**.
