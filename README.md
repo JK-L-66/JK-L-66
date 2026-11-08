@@ -45,4 +45,4 @@ A Java–Python coursework project, developed with AI assistance, for automated 
 
 ## 📫 Connect
 
-Feel free to explore my repositories or reach out through my GitHub profile.
+Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jiakang-liu/).
